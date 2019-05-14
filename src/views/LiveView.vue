@@ -7,5 +7,5 @@
 <script lang="ts">
 import { Component, Vue } from 'vue-property-decorator';
 
-export default class About extends Vue {}
+export default class LiveView extends Vue {}
 </script>
